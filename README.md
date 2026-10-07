@@ -3,5 +3,5 @@ Data files for research on happiness and its societal determinants.
 This is additional information related to two Chapters in the Research Agenda for Happiness (Edward Elgar).
 Chapter 7 is about happiness regressions and contains 210 regressions for the explanation of differences in individual happiness.
 Chapter 21 is about happiness levels in nations with different levels of democracy.
-Chapter 7 – Happiness regressions: Download Excel file
-Chapter 21 – Political regimes and happiness: Download Excel file
+EE Research Agenda Ch. 21 Ott-Political Regimes-Oct2026.xlsx
+EE-Research Agenda Ch.7 Ott-Happ-Regressions-Oct2026.xlsx
